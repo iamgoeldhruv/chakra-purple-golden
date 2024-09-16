@@ -1,0 +1,9 @@
+.ui.flexbox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.ui.flexbox > div {
+    margin: 20px;
+}
