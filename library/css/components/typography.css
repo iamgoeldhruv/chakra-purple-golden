@@ -97,10 +97,16 @@
 }
 
 .ui.intro-text {
-  color: var(--black);
+  color: white;
   font-weight: 400;
   /* padding: 1rem 0; */
   line-height: 1.2rem;
+}
+.ui.intro-text1 {
+  color:var(--black);
+  font-weight: 400;
+  /* padding: 1rem 0; */
+  /* line-height: 1.2rem; */
 }
 .ui.intro-text[onclick^="window"]:hover{
   cursor: pointer;
@@ -109,7 +115,7 @@
   color: var(--section-blue);
 }
 .ui.inverted.intro-text {
-  color: var(--light-grey);
+  color: white;
   /* background-image: var(--gradient-blue); */
   /* padding: 1rem 0; */
   line-height: 1.2rem;

@@ -92,7 +92,7 @@
 
 .ui.slider .image-card .content .intro-text {
     font-weight: 400;
-    color: var(--light-grey);
+    color: white;
     opacity: 0.8;
 }
 

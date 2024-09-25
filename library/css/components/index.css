@@ -93,4 +93,7 @@ body {
   .notice-bg{
     background-color: var(--notice-bg);
   }
+  .gradient-yellow{
+    background: linear-gradient(135deg, #FFB800 9%, #FF8125 81%);
+  }
  

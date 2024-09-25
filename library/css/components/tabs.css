@@ -82,7 +82,7 @@
 .ui.tabs-container.primary > .tabs > .tab.active {
   /* color: var(--white); */
   /* background-color: var(--formal-blue); */
-  color: black;
+  color: var(--tabs-color);
   background-color: var(--primary);
 }
 
@@ -149,7 +149,7 @@
 }
 .ui.tabs-container.event > .tabs > .tab.active
 {
-  background-color: var(--primary);
+  background:linear-gradient(135deg, #FFB800 9%, #FF8125 81%);;
   color: var(--black);
 }
 .ui.tabs-container.event > .contents {
