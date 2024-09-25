@@ -1,6 +1,6 @@
 .ui.section-heading {
-  color: var(--heading-white);
-  font-weight: 700;
+  color: var(--heading-black);
+  font-weight: 550;
   font-size: 1.5rem;
   text-transform: uppercase;
   /* padding: 1.25rem 0; */
@@ -97,7 +97,8 @@
 }
 
 .ui.intro-text {
-  color: var(white);
+  color: var(--black);
+  font-weight: 400;
   /* padding: 1rem 0; */
   line-height: 1.2rem;
 }
