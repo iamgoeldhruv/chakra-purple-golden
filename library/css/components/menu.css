@@ -241,6 +241,7 @@ div.flexbox .menuItem {
   .menuContainer div.flexbox.navbarVisible {
     margin-top: 0px;
     transform: transLateX(0%);
+    background-color: black;
   }
   /* Vertical List */
   div.flexbox > .menuItem > ul {
