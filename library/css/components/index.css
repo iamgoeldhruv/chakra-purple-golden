@@ -89,4 +89,8 @@ body {
   .bg-black{
     background-color: var(--bg-black);
   }
+
+  .notice-bg{
+    background-color: var(--notice-bg);
+  }
   
