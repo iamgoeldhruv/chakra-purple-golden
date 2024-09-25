@@ -41,6 +41,7 @@
   --notice-bg: #99BBD145;
   --icons-bg:black;
   --bg-black:#232323;
+  --header-top:#232323;
 
 }
 
@@ -56,10 +57,10 @@
   --heading-black: #E1E1E1;
   --grey: #EEEEEE;
   --light-grey: #111111;
-  --yellow:yellow ;
+  --yellow:#E9FF92 ;
   --icons-bg:black;
   /* --primary: #E9FF92; */
-  --primary:yellow;
+  --primary:#E9FF92;
   /* --primary: #81dbfe; */
   --caption-grey: #999999;
   --hover-black: #f7f7f7;
@@ -74,10 +75,11 @@
   --social-icon-youtube-hover-color: #bb0000;
   --social-icon-telegram-hover-color:  #229ED9;
   --footer-background:black;
-  --bg-green:yellow;
+  --bg-green:#232323;
   --header-bg:#232323;
-  --bg-lightBlue:#99BBD1;
+  --bg-lightBlue:#232323;
   --notice-bg: #99BBD145;
+  --header-top:#232323;
  
 }
 

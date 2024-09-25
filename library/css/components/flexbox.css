@@ -1,5 +1,6 @@
 .ui.flexbox {
     display: flex;
+    justify-content: center;
 }
 
 .ui.flexbox > div {
